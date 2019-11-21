@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item key="use_default_location" value="true"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D:\Gradale\gradle-6.0-bin\gradle-6.0))"/>
+		<item key="apply_working_sets" value="false"/>
+		<item key="project_location" value="D:\eclipse-workspace\NTSP712\IOCProj15-RealTimeDI-RealTimeSDP-StudentUseCase"/>
+		<item key="custom_location" value="D:\IOCProj10-LayeredApp-StudentUseCase-RealtimeDI"/>
+		<list key="working_sets">
+		</list>
+	</section>
+</section>

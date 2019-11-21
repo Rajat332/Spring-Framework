@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="IOC-Proj12-InnerBeanCfgs"/>
+<aop-project name="IOC-Proj10-LayeredApp-StudentUseCase-RealTime"/>
+<aop-project name="IOC-Proj14-DependencyLookup"/>
+<aop-project name="IOC-Proj11-LayeredApp-CustmerUseCase-RealTime"/>
+<aop-project name="IOC-Proje2-ConstructorInjection-POC"/>
+<aop-project name="CollectionMerging"/>
+<aop-project name="IOC-Proj13-NullInjection"/>
+<aop-project name="IOCProj15-RealTimeDI-RealTimeSDP-StudentUseCase"/>
+<aop-project name="IOCProj3-BeanCollabaration-TightCoupling"/>
+</aop-reference-model>

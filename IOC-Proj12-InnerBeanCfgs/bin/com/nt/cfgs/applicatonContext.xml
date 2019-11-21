@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<bean id="Rohit"  class="com.nt.beans.ProffessionalCricketer">
+        <property name="jersyNo"  value="88"/>
+        <constructor-arg name="name"  value="Rohit sharma"/>
+        <constructor-arg name="bat">
+             <bean   class="com.nt.beans.CricketBat">
+                    <property name="make"  value="RS"/>
+                    <property name="model"  value="Powerfull"/>
+             </bean>
+        </constructor-arg>
+   </bean>
+
+</beans>

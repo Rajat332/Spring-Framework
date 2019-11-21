@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-4.3.xsd">
+	<bean id="dobDt"  class="java.util.Date">
+	     <property name="year"  value="95"/>
+	     <property name="month" value="10"/>
+	     <property name="date"  value="20"/>
+	</bean>
+	
+	<bean id="dojDt"  class="java.util.Date">
+	     <property name="year"  value="117"/>
+	     <property name="month" value="9"/>
+	     <property name="date"  value="12"/>
+	</bean>
+	
+	
+	<bean id="pandya"  class="com.nt.beans.PersonProfile">
+	    <constructor-arg  value="-1"/>
+	    <constructor-arg  ><null/>  </constructor-arg>
+	    <constructor-arg value="25.5f"/>
+	    <constructor-arg  ref="dobDt"/>
+	    <constructor-arg><null/></constructor-arg>
+	    <constructor-arg><null/></constructor-arg>
+	</bean>
+	
+
+
+</beans>

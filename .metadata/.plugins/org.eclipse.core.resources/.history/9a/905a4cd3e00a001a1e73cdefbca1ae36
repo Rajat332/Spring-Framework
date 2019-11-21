@@ -1,0 +1,15 @@
+package com.nt.service;
+
+import com.nt.dto.StudentDTO;
+
+public class StudentSrviceImpl implements StudentService {
+
+	private StudentDAO dao;
+	
+	@Override
+	public String registerStudent(StudentDTO dto) throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

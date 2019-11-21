@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+<fullyQualifiedTypeName name="com.nt.beans.BlueDart"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicIconFactory"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.nt.controller.StudentController"/>
+<fullyQualifiedTypeName name="org.springframework.cglib.proxy.Factory"/>
+<fullyQualifiedTypeName name="com.nt.beans.WishMassegeGenerator"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.FactoryBean"/>
+<fullyQualifiedTypeName name="com.nt.beans.Flipkart"/>
+<fullyQualifiedTypeName name="com.nt.beans.WishMessageGenerator"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Constructor"/>
+<fullyQualifiedTypeName name="com.nt.dao.CustomerDAO"/>
+<fullyQualifiedTypeName name="com.nt.bo.CustomerBO"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+<fullyQualifiedTypeName name="com.nt.dto.CustmerDTO"/>
+<fullyQualifiedTypeName name="com.nt.vo.CustomerVO"/>
+<fullyQualifiedTypeName name="com.nt.dto.CustomerDTO"/>
+<fullyQualifiedTypeName name="com.nt.service.BankServiceMgmt"/>
+<fullyQualifiedTypeName name="com.nt.beans.ProffessionalCricketer"/>
+<fullyQualifiedTypeName name="com.nt.beans.CricketBat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.nt.beans.PersonProfile"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.nt.beans.EnggCourse"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.FileSystemResource"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.support.DefaultListableBeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanDefinitionReader"/>
+<fullyQualifiedTypeName name="com.nt.beans.Person"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.nt.dao.StudentDAO"/>
+<fullyQualifiedTypeName name="com.nt.bo.StudentBO"/>
+<fullyQualifiedTypeName name="com.nt.service.StudentService"/>
+<fullyQualifiedTypeName name="com.nt.dto.StudentDTO"/>
+<fullyQualifiedTypeName name="com.nt.controller.MainController"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="com.nt.vo.StudentVO"/>
+</qualifiedTypeNameHistroy>
