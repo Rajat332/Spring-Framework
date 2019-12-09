@@ -2,9 +2,9 @@
 <section name="Workbench">
 	<section name="org.eclipse.buildship.ui.wizard.project.creation">
 		<item key="use_default_location" value="true"/>
-		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(D:\Gradale\gradle-6.0-bin\gradle-6.0))"/>
+		<item key="gradle_distribution" value="GRADLE_DISTRIBUTION(VERSION(6.1-milestone-3))"/>
 		<item key="apply_working_sets" value="false"/>
-		<item key="project_location" value="D:\eclipse-workspace\NTSP712\IOC-Proj15-SingltonJavaClass"/>
+		<item key="project_location" value="D:\eclipse-workspace\NTSP712\IOC-Proj22-SpringI18n-EventHandling"/>
 		<item key="custom_location" value="D:\IOCProj10-LayeredApp-StudentUseCase-RealtimeDI"/>
 		<list key="working_sets">
 		</list>

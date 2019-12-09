@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans   default-autowire="no"  default-autowire-candidates="evt*"   xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+	
+	<!-- Dependent Bean cfg -->
+ 	<bean id="evt1"  class="com.nt.beans.Event"   >
+	    <property name="games">
+	      <list>
+	         <value>Wreseling</value>
+	         <value>BasketBall</value>
+	         <value>boxing</value>
+	         <value>kabadi</value>
+	      </list>
+	    </property>
+	</bean>
+	  <bean id="evt2"  class="com.nt.beans.Event"   >
+	    <property name="games">
+	      <list>
+	         <value>Cricket</value>
+	         <value>footbal</value>
+	         <value>hockey</value>
+	         <value>Golf</value>
+	      </list>
+	    </property>
+	</bean>   
+	
+	  <bean id="event"  class="com.nt.beans.Event"  primary="true"  autowire-candidate="true" >
+	    <property name="games">
+	      <list>
+	         <value>Carams</value>
+	         <value>chess</value>
+	         <value>ludo</value>
+	         <value>Thambola</value>
+	      </list>
+	    </property>
+	</bean>   
+	
+	
+	
+	 <bean id="cal"  class="java.util.Calendar"  factory-method="getInstance"  autowire-candidate="true"/>
+	
+ 	
+	
+	<bean id="trmnt"  class="com.nt.beans.Tournament"  autowire="byName" >
+	    <property name="name"  value="olympics"/>
+	  <constructor-arg  ref="evt1"/>
+	</bean>
+	
+	
+	       
+
+
+</beans>
+	
+	    
+
+

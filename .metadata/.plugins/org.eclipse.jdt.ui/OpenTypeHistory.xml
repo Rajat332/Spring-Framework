@@ -1,2 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=IOC-Proj19-NestedBeanFactory-layeredApplication/src\/main\/java&lt;com.nt.service{EmployeeMgmtService.java[EmployeeMgmtService" modifiers="513" timestamp="1574945039847"/>
+<typeInfo handle="=IOC-Proj21-LayeredApp-NestedBeanFactory-HostelUseCase/C:\/Program Files\/Java\/jdk1.8.0_201\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1552149725732"/>
+<typeInfo handle="=IOC-Proj21-LayeredApp-NestedBeanFactory-HostelUseCase/src\/main\/java&lt;com.nt.service{HostelService.java[HostelService" modifiers="513" timestamp="1575312301980"/>
+<typeInfo handle="=IOC-Proj21-LayeredApp-NestedBeanFactory-HostelUseCase/C:\/Program Files\/Java\/jdk1.8.0_201\/jre\/lib\/rt.jar&lt;org.omg.PortableInterceptor(HOLDING.class[HOLDING" modifiers="1537" timestamp="1552149725732"/>
+</typeInfoHistroy>
